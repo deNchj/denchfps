@@ -236,7 +236,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "13 Yıllık FPS Oyun Deneyimi | Windows, oyun, gecikme ve PC optimizasyonu.",
+    "13 Yıllık FPS Oyun Deneyimi Windows oyun gecikme ve PC optimizasyonu.",
     "\"denchFPS\""
   ];
   let bioText = '';
@@ -670,4 +670,5 @@ document.addEventListener('DOMContentLoaded', () => {
   typeWriterStart();
 
 });
+
 
