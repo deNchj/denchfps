@@ -236,8 +236,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "Fu*k Guns.lol & Fakecrime.bio got banned too often, so I created my own.",
-    "\"Hello, World!\""
+    "13 Yıllık FPS Oyun Deneyimi | Windows, oyun, gecikme ve PC optimizasyonu.,
+    "\"https://linktr.ee/denchFPS\""
   ];
   let bioText = '';
   let bioIndex = 0;
@@ -668,4 +668,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   typeWriterStart();
+
 });
