@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 
-  const name = "denchFPS";
+  const name = "DENCHFPS";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
@@ -236,8 +236,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "Windows oyun gecikme ve PC optimizasyonu.",
-    "\"13 Yıllık FPS Oyun Deneyimi!\""
+    "13 Yıllık FPS Oyun Deneyimi!",
+    "\"Windows oyun gecikme ve PC optimizasyonu.!\""
   ];
   let bioText = '';
   let bioIndex = 0;
@@ -670,4 +670,5 @@ document.addEventListener('DOMContentLoaded', () => {
   typeWriterStart();
 
 });
+
 
