@@ -236,8 +236,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "13 Yıllık FPS Oyun Deneyimi | Windows, oyun, gecikme ve PC optimizasyonu.,
-    "\"https://linktr.ee/denchFPS\""
+    "13 Yıllık FPS Oyun Deneyimi | Windows, oyun, gecikme ve PC optimizasyonu.",
+    "\"denchFPS\""
   ];
   let bioText = '';
   let bioIndex = 0;
@@ -670,3 +670,4 @@ document.addEventListener('DOMContentLoaded', () => {
   typeWriterStart();
 
 });
+
