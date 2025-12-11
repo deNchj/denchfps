@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  const startMessage = "Bana ulaşmak için buraya tıklayın.";
+  const startMessage = "Click here to contact me.";
   let startTextContent = '';
   let startIndex = 0;
   let startCursorVisible = true;
@@ -670,3 +670,4 @@ document.addEventListener('DOMContentLoaded', () => {
   typeWriterStart();
 
 });
+
